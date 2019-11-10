@@ -81,7 +81,7 @@ env:
     - PKG_NAME=matgrp
     - PKG_NAME=modisom
     - PKG_NAME=monoidalcategories
-    # - PKG_NAME=nock
+    - PKG_NAME=nock
     - PKG_NAME=normalizinterface
     - PKG_NAME=nq
     - PKG_NAME=numericalsgps
@@ -128,7 +128,7 @@ env:
     - PKG_NAME=wedderga
     # - PKG_NAME=xmod
     - PKG_NAME=xmodalg
-    - PKG_NAME=yangbaxter
+    # - PKG_NAME=yangbaxter
     - PKG_NAME=zeromqinterface
 
 services:
