@@ -28,7 +28,7 @@ env:
     - PKG_NAME=crypting
     - PKG_NAME=cryst
     - PKG_NAME=crystcat
-    # - PKG_NAME=ctbllib
+    - PKG_NAME=ctbllib
     - PKG_NAME=cubefree
     - PKG_NAME=curlinterface
     - PKG_NAME=cvec
@@ -108,7 +108,7 @@ env:
     - PKG_NAME=repsn
     - PKG_NAME=resclasses
     - PKG_NAME=scscp
-    # - PKG_NAME=semigroups
+    - PKG_NAME=semigroups
     - PKG_NAME=sglppow
     - PKG_NAME=sgpviz
     # - PKG_NAME=simpcomp
